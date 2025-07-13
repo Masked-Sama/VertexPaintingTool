@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\ceret\\onedrive\\desktop\\vertexpainting\\source\\vertexpainting\\vertexpainting.cpp",
+        "Source": "c:\\users\\ceret\\onedrive\\desktop\\mycareerpersonalproject\\vertexpaintingtool\\vertexpainting\\source\\vertexpainting\\vertexpainting.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\ceret\\onedrive\\desktop\\vertexpainting\\intermediate\\build\\win64\\x64\\vertexpaintingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\ceret\\onedrive\\desktop\\mycareerpersonalproject\\vertexpaintingtool\\vertexpainting\\intermediate\\build\\win64\\x64\\vertexpaintingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\ceret\\onedrive\\desktop\\vertexpainting\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vertexpainting\\definitions.vertexpainting.h",
-            "c:\\users\\ceret\\onedrive\\desktop\\vertexpainting\\source\\vertexpainting\\vertexpainting.h"
+            "c:\\users\\ceret\\onedrive\\desktop\\mycareerpersonalproject\\vertexpaintingtool\\vertexpainting\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vertexpainting\\definitions.vertexpainting.h",
+            "c:\\users\\ceret\\onedrive\\desktop\\mycareerpersonalproject\\vertexpaintingtool\\vertexpainting\\source\\vertexpainting\\vertexpainting.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

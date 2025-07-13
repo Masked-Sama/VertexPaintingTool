@@ -1,11 +1,11 @@
-"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Source\VertexPainting\VertexPainting.cpp"
-/FI"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\Definitions.VertexPainting.h"
-/Yu"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.cpp.obj"
-/sourceDependencies "C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.cpp.dep.json"
-@"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.Shared.rsp"
+"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Source\VertexPainting\VertexPainting.cpp"
+/FI"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\Definitions.VertexPainting.h"
+/Yu"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.cpp.obj"
+/sourceDependencies "C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.cpp.dep.json"
+@"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

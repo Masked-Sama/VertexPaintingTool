@@ -35,9 +35,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.cpp.obj"
-"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\Default.rc2.res"
+"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.cpp.obj"
+"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -68,7 +68,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Binaries\Win64\UnrealEditor-VertexPainting.dll"
-/IMPLIB:"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\UnrealEditor-VertexPainting.sup.lib"
-/PDB:"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Binaries\Win64\UnrealEditor-VertexPainting.pdb"
+/OUT:"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Binaries\Win64\UnrealEditor-VertexPainting.dll"
+/IMPLIB:"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\UnrealEditor-VertexPainting.sup.lib"
+/PDB:"C:\Users\ceret\OneDrive\Desktop\MyCareerPersonalProject\VertexPaintingTool\VertexPainting\Binaries\Win64\UnrealEditor-VertexPainting.pdb"
 /ignore:4078
