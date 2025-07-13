@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VertexPainting",
+			"Path": "..\\Source\\VertexPainting.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VertexPaintingEditor",
+			"Path": "..\\Source\\VertexPaintingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VertexPainting.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\VertexPaintingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\VertexPainting.cpp.obj"
+"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\Default.rc2.res"
+/OUT:"C:\Users\ceret\OneDrive\Desktop\VertexPainting\Intermediate\Build\Win64\x64\UnrealEditor\Development\VertexPainting\UnrealEditor-VertexPainting.lib"
